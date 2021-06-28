@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753470551000",
+    "project_id": "groupchat-e52b3",
+    "storage_bucket": "groupchat-e52b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753470551000:android:20d90dad3680a61562b8ad",
+        "android_client_info": {
+          "package_name": "com.danush.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753470551000-ud093frukme72p4cti5fk6uuof45rrgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danush.groupchat",
+            "certificate_hash": "dc95d877e4deec0a80d213667fc2ea14d68b4b5c"
+          }
+        },
+        {
+          "client_id": "753470551000-c0kq89birsentgq636pfl5ak133ff5al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfGeIVadbFRSbpExHjY81SOBJBaSvrtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753470551000-c0kq89birsentgq636pfl5ak133ff5al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
